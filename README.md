@@ -8,4 +8,4 @@
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 <img src="https://github.com/Jefferson-santos-franca/easy-shopping/blob/master/asset/Desktop.png?raw=true">
-<img src="https://github.com/Jefferson-santos-franca/easy-shopping/blob/master/asset/Mobile.png?raw=true">
+<img src="https://github.com/Jefferson-santos-franca/easy-shopping/blob/master/asset/Mobile.png?raw=true" width="250px">
